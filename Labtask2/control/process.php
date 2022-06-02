@@ -50,6 +50,6 @@ else
 }
 if(strlen($pass_word) <= '6')
 {
-    echo "password Must be more than 6<br>";
+    echo "password Must be more than 6";
 }
 ?>
